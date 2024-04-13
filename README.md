@@ -23,14 +23,23 @@ This is a simple snake game implemented in C++ using OpenGL. The game allows pla
 
 ## How to Run
 
-1. Ensure you have OpenGL installed on your system.
-2. Clone this repository to your local machine.
-3. Compile the code by writing make on terminal after installing libraries 
-4. Run the executable file generated.
+1. Clone this repository to your local machine, I made this on Ubuntu so I only know how to run it there.
+2. Install GCC (g++) compiler:
+```
+sudo apt-get install g++
+```
+
+3. Install Libraries like OpenGL
+4. Run Make File
+   To run this project, you must compile it first. To do so, go to the root of the project folder via terminal and run the following:
+```
+make
+```
+5. Run the executable file generated, 'gamerelease.out' , by clicking on it.
 
 ## Credits
 
-This game was solely developed by me (Aleena Zahra) as a first semester final project.
+This game was solely developed by me (Aleena Zahra) for my first semester final project.
 
 ## Notes
 
