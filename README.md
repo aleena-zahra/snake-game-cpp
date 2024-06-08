@@ -1,6 +1,12 @@
 # Snake Game
 
 This is a simple snake game implemented in C++ using OpenGL. The game allows players to control a snake, moving it around the screen to eat food and grow longer. However, players must avoid collisions with barriers and their own snake body. The game features multiple levels and keeps track of the player's score.
+## Screenshots
+## Menu 
+![Screenshot from 2024-06-08 11-07-26](https://github.com/aleena-zahra/snake-game-cpp/assets/155615101/8cea4b23-6117-46f9-9163-9774ed8f9d0c)
+
+## Game Screen
+![Screenshot from 2024-06-08 11-08-34](https://github.com/aleena-zahra/snake-game-cpp/assets/155615101/299e76fd-37bc-40e7-9227-2887cede31c2)
 
 ## Instructions
 
